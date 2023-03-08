@@ -6,3 +6,6 @@ A script that changes the working directory to the user’s home directory.
 A script to display current directory contents in a long format.
 
 A script to display current directory contents, including hidden files (starting with .). Use the long format.
+
+A script to display current directory contents in long format with user and group IDs displayed numerically and hidden files (starting with .)
+
