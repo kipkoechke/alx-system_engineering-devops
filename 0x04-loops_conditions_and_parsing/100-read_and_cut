@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This Bash script displays specific information from the `/etc/passwd` file.
-# Displays the username, user ID, and user home directory path for each user.
+# Displays specific information from the `/etc/passwd` file.
+# Displays the username, user ID, and user home directory path.
 
 while read passwd; do
   echo "$passwd" | cut -d ':' -f1,3,6
