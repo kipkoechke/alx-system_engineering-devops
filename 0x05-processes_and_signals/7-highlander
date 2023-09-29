@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Displays messages indefinitely with a 2-second interval.
+
+while true
+do
+  echo "To infinity and beyond"
+  sleep 2
+  trap 'echo "I am invincible!!!"' SIGTERM 
+done
