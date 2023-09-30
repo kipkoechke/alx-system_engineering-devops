@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Narrates a story using /etc/passwd user information.
+
+while IFS=':' read username password uid gid info home shell; do
+  echo "User $username belongs to gang $gid,"\
+  "lives at $home, and rides $shell."\
+  "$uid's place is secured with passcode $password,"\
+  "for more info, visit $info"
+done < "/etc/passwd"
