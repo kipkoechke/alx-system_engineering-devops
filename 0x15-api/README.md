@@ -70,4 +70,11 @@ By the end of this project, you are expected to be able to [explain to anyone](h
   * File name: `<user id>.json`
   * Format: `{ "<user id>": [ {"task": "<task title>", "completed": <task completed status>, "username": "<username>"}}, ... ]}`
 
+* **3. Dictionary of list of dictionaries**
+  * [3-dictionary_of_list_of_dictionaries.py](./3-dictionary_of_list_of_dictionaries.py):
+  Python script that exports to-do list information for all employees to JSON format.
+  * Usage: `python3 3-dictionary_of_list_of_dictionaries.py`
+  * File name: `todo_all_employees.json`
+  * Format: `{ "<user id>": [ {"username": "<username>", "task": "<task title>", "completed": <task completed status>}, {"username": "<username>", "task": "<task title>", "completed": <task completed status>}, ... ], "<user id>": [ {"username": "<username>", "task": "<task title>", "completed": <task completed status>}, {"username": "<username>", "task": "<task title>", "completed": <task completed status>}, ... ]}`
+
 
