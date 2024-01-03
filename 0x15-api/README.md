@@ -47,3 +47,11 @@ By the end of this project, you are expected to be able to [explain to anyone](h
 * [X] Pythonic Function name style
 * [X] Pythonic Constant name style
 * [X] Significance of CapWords or CamelCase in Python
+
+## Tasks :page_with_curl:
+
+* **0. Gather data from an API**
+  * [0-gather_data_from_an_API.py](./0-gather_data_from_an_API.py): Python script
+  that returns information on the to-do list progress of a given employee ID.
+  * Usage: `python3 0-gather_data_from_an_API.py <employee ID>`.
+  * Output: `Employee <employee name> is done with tasks(<# completed tasks>/<total # tasks>):`
