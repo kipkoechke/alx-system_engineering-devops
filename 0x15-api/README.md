@@ -29,4 +29,8 @@ __Read or watch__:
 5. [What are microservices](https://smartbear.com/learn/api-design/microservices/)
 6. [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://peps.python.org/pep-0008/)
 
+## Learning objectives
+
+By the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __Without the help of Google__:
+
 
