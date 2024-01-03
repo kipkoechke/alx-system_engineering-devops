@@ -18,3 +18,15 @@ Old-school system administrators usually only know Bash and that is what they us
 One popular way to expose an application and dataset is to use an API. Often, they are the public facing part of websites and micro-services so that allow outsiders to interact with them – access and modify their data. In this project, you will access employee data via an API to organize and export them to different data structures.
 
 This is a perfect example of a task that is not suited for Bash scripting, so let’s build Python scripts.
+
+## Resources
+
+__Read or watch__:
+1. [Friends don't let friends program in shell script](https://www.turnkeylinux.org/blog/friends-dont-let-friends-program-shell-script)
+2. [What is an API](https://www.webopedia.com/definitions/api/)
+3. [What is an API? In English please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+4. [What is a REST API](https://www.sitepoint.com/rest-api/)
+5. [What are microservices](https://smartbear.com/learn/api-design/microservices/)
+6. [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://peps.python.org/pep-0008/)
+
+
