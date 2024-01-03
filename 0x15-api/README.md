@@ -33,4 +33,17 @@ __Read or watch__:
 
 By the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __Without the help of Google__:
 
+## General
 
+* [X] What Bash scripting should not be used for
+* [X] What is an API
+* [X] What is a REST API
+* [X] What are microservices
+* [X] What is the CSV format
+* [X] What is the JSON format
+* [X] Pythonic Package and module name style
+* [X] Pythonic Class name style
+* [X] Pythonic Variable name style
+* [X] Pythonic Function name style
+* [X] Pythonic Constant name style
+* [X] Significance of CapWords or CamelCase in Python
