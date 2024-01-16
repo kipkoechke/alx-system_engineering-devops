@@ -11,4 +11,8 @@ This project was further practice in working with API's. I collected data from t
 [JSONPlaceholder REST API](https://jsonplaceholder.typicode.com/), and learned how
 to export it to either CSV or JSON format.
 
+## Resources
 
+__Read or watch__:
+1. [Reddit API Docs](https://www.reddit.com/dev/api/)
+2. [Query String](https://en.wikipedia.org/wiki/Query_string)
