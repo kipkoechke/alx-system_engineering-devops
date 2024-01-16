@@ -16,3 +16,8 @@ to export it to either CSV or JSON format.
 __Read or watch__:
 1. [Reddit API Docs](https://www.reddit.com/dev/api/)
 2. [Query String](https://en.wikipedia.org/wiki/Query_string)
+
+## Learning Objectives
+
+By the end of this project, you are excected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __without the help of Google__.
+
