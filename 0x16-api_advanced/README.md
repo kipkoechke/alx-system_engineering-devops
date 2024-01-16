@@ -28,3 +28,12 @@ By the end of this project, you are excected to be able to [explain to anyone](h
 - [X] How to parse JSON results from an API
 - [X] How to make a recursive API call
 - [X] How to sort a dictionary by value
+
+## Tasks :page_with_curl:
+
+* **0. Gather data from an API**
+
+  * [0-gather_data_from_an_API.py](./0-gather_data_from_an_API.py): Python script
+  that returns information on the to-do list progress of a given employee ID.
+  * Usage: `python3 0-gather_data_from_an_API.py <employee ID>`.
+  * Output: `Employee <employee name> is done with tasks(<# completed tasks>/<total # tasks>):`
