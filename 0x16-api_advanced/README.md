@@ -21,3 +21,10 @@ __Read or watch__:
 
 By the end of this project, you are excected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __without the help of Google__.
 
+### General
+
+- [X] How to read API documentation to find the endpoints you’re looking for
+- [X] How to use an API with pagination
+- [X] How to parse JSON results from an API
+- [X] How to make a recursive API call
+- [X] How to sort a dictionary by value
