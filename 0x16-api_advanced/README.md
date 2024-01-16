@@ -46,3 +46,12 @@ By the end of this project, you are excected to be able to [explain to anyone](h
   * File name: `<user id>.csv`.
   * Format: `"<user id>","<username>","<task completed status>","<task title>"`.
 
+* **2. Export to JSON**
+
+  * [2-export_to_JSON.py](./2-export_to_JSON.py): Python script that exports
+  to-do list information of a given employee ID to JSON format.
+  * Usage: `python3 2-export_to_JSON.py <employee ID>`
+  * File name: `<user id>.json`
+  * Format: `{ "<user id>": [ {"task": "<task title>", "completed": <task completed status>, "username": "<username>"}}, ... ]}`
+
+
