@@ -37,3 +37,12 @@ By the end of this project, you are excected to be able to [explain to anyone](h
   that returns information on the to-do list progress of a given employee ID.
   * Usage: `python3 0-gather_data_from_an_API.py <employee ID>`.
   * Output: `Employee <employee name> is done with tasks(<# completed tasks>/<total # tasks>):`
+
+* **1. Export to CSV**
+
+  * [1-export_to_CSV.py](./1-export_to_CSV.py): Python script exports to-do list
+  information of a given employee ID to CSV format.
+  * Usage: `python3 1-export_to_CSV.py <employee ID>`
+  * File name: `<user id>.csv`.
+  * Format: `"<user id>","<username>","<task completed status>","<task title>"`.
+
